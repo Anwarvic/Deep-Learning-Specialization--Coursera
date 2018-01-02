@@ -6,7 +6,7 @@ In this repo you can find:
 
 - Slides of the whole specialization (except the fifth course).
 - Readings and papers provided inside the course.
-- The original assignments without solution (Original.zip).
+- The original assignments without solution (deeplearning.ai.zip).
 - My solution to the assignment.
 - My solution to the in-video quizzes.
 
