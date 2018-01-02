@@ -1,0 +1,28 @@
+1) - X is a matrix in which each column is one training example.
+   - a^[2]_4 is the activation output by the 4th neuron of the 2nd layer
+   - a^[2](12) denotes the activation vector of the 2nd layer for the 12th training example.
+   - a^[2] denotes the activation vector of the 2nd layer.
+
+2) True
+
+3) - Z^[l]=W^[l]A^[l-1]+b^[l]
+   - A^[l]=g^[l](Z^[l])
+
+4) sigmoid
+
+5) (4, 1)
+
+6) Each neuron in the first hidden layer will perform the same computation. So even after multiple iterations of gradient descent each neuron in the layer will be computing the same thing as other neurons.
+
+7) False
+
+8) This will cause the inputs of the tanh to also be very large, thus causing gradients to be close to zero. The optimization algorithm will thus become slow.
+
+9) - b[1] will have shape (4, 1)
+   - W[1] will have shape (4, 2)
+   - W[2] will have shape (1, 4)
+   - b[2] will have shape (1, 1)
+
+10) Z[1] and A[1] are (4,m)
+
+
