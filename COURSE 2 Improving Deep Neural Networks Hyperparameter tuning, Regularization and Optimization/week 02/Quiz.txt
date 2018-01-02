@@ -1,0 +1,25 @@
+1) a^[3]{8}(7)
+
+2) One iteration of mini-batch gradient descent (computing on a single mini-batch) is faster than one iteration of batch gradient descent.
+
+3) - If the mini-batch size is m, you end up with batch gradient descent, which has to process the whole training set before making progress.
+   - If the mini-batch size is 1, you lose the benefits of vectorization across examples in the mini-batch.
+   
+4) If you’re using mini-batch gradient descent, this looks acceptable. But if you’re using batch gradient descent, something is wrong.
+
+5) v2=7.5, vcorrected2=10
+
+6) a = (e^t)*a
+
+7) - Increasing ß will shift the red line slightly to the right.
+   - Decreasing ß will create more oscillation within the red line.
+  
+8)
+
+
+9) - Try better random initialization for the weights
+   - Try using Adam
+   - Try mini-batch gradient descent
+   - Try tuning the learning rate a
+
+10) Adam should be used with batch gradient computations, not with mini-batches.
