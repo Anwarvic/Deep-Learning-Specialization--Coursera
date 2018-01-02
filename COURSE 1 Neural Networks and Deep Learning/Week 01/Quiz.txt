@@ -1,0 +1,26 @@
+1) Similar to electricity starting about 100 years ago, AI is transforming multiple industries.
+
+2) - We have access to a lot more data. 
+   - Deep learning has resulted in significant improvements in important applications such as online advertising, speech recognition, and image recognition.
+   - We have access to a lot more computational power.
+   
+3) - Being able to try out ideas quickly allows deep learning engineers to iterate more quickly.
+   - Faster computation can help speed up how long a team takes to iterate to a good idea. 
+   - Recent progress in deep learning algorithms has allowed us to train good models faster (even without changing the CPU/GPU hardware).
+
+4) False
+
+5) Figure 3 
+
+6) False
+
+7) False
+
+8) - It is applicable when the input/output is a sequence (e.g., a sequence of words).
+   - It can be trained as a supervised learning problem.
+
+9) - x-axis is the amount of data
+   - y-axis (vertical axis) is the performance of the algorithm.
+
+10) - Increasing the size of the nerual network generally does not hurt an algorithm’s performance, and it may help significantly.    
+    - Increasing the training set size generally does not hurt an algorithm’s performance, and it may help significantly.
