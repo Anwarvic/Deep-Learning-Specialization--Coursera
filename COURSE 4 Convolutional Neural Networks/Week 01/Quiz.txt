@@ -1,0 +1,25 @@
+1) Detect vertical edges
+
+2) 27,000,100
+
+3) 2501, 2600 ()
+
+4) 29x29x32
+
+5) 19x19x8
+
+6) 3
+
+7) 16x16x16
+
+8) False
+
+9) - It allows a feature detector to be used in multiple locations throughout the whole input image/input volume.
+   - It allows parameters learned for one task to be shared even for a different task (transfer learning).
+   - It reduces the total number of parameters, thus reducing overfitting.
+   
+   It allows parameters learned for one task to be shared even for a different task (transfer learning).
+   It reduces the total number of parameters, thus reducing overfitting.
+   ()
+
+10) Each activation in the next layer depends on only a small number of activations from the previous layer.

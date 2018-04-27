@@ -1,0 +1,54 @@
+Week 1
+------
+01- What is a neural network?
+True
+
+02- Supervised Learning with Neural Networks
+Unstructued data
+
+03- Why is Deep Learning taking off?
+Number of training examples
+--------------------------------------------------------------------------------
+Week 2:
+-------
+01- Logistic Regression
+w, and nx dimensional vector, and b, a real number
+
+02- Logistic Regression Cost Function
+the loss function computes the error for a single training example, the cost function is the average of the loss functions of the entire training set.
+
+03- Gradient Descent
+False
+
+04- Derivatives
+doesn't change
+
+05- Computation graph
+Backward
+
+06- Derivatives with a Computation Graph
+The derivative of a final output variable with respect to various intermediate quantities.
+
+07- Logistic Regression Gradient Descent
+a-y
+
+08- Gradient Descent on m Examples   
+The value of dw in the code is cumulative.
+
+09- Vectorization
+False
+
+10- Vectorizing Logistic Regression
+(n_x, m)
+
+11- Vectorizing Logistic Regression's Gradient Output
+1/m*(np.sum(dz))
+
+12- Broadcasting in Python: 
+A.sum(axis=0)
+
+13- A note on python/numpy vectors
+A rank 1 array
+
+14- Explanation of logistic regression cost function (optional)
+True
