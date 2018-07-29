@@ -1,3 +1,6 @@
 __pycache__/
 .ipynb_checkpoints/
 glove.6B.50d.txt
+./COURSE\ 4\ Convolutional\ Neural\ Networks/Week\ 02/02-ResNets/ResNet50.h5
+./COURSE\ 5\ Sequence\ Models/Week\ 02/01-Word\ Vector\ Representation/data/glove.6B.50d.txt
+
