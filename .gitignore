@@ -1,0 +1,9 @@
+#exclude the following directory as it's too much to upload
+/projects/booksNER/models/stanford-ner-2018-02-27
+/projects/booksNER/models/data/big
+/projects/booksNER/models/raw/big
+__pycache__/
+.ipynb_checkpoints/
+ResNet50.h5
+glove.6B.50d.txt
+
