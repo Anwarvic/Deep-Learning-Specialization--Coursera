@@ -1,0 +1,3 @@
+# Note:
+
+There is a file called `imagenet-vgg-verydeep-19.mat` which represents the VGG-19 weights that should be included. But, the size of this file is 534.9MB, and Github prevents any file whose size is bigger than 100MB.  So, you can download it from [here](http://www.mediafire.com/file/bhdi2283jwd5x9e/imagenet-vgg-verydeep-19.mat/file). And locate it in a new directory in this project named `pretrained-model`.
