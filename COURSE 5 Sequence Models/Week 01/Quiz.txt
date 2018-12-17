@@ -1,0 +1,22 @@
+1) x^(i)<j>
+
+2) Tx=Ty
+
+3) - Sentiment classification (input a piece of text and output a 0/1 to denote positive or negative sentiment) 
+   - Gender recognition from speech (input an audio clip and output a label indicating the speaker’s gender) 
+
+4) Estimating P(y<t>∣y<1>,y<2>,…,y<t−1>)
+
+5) (i) Use the probabilities output by the RNN to pick the highest probability word for that time-step as y^<t>. 
+   (ii) Then pass this selected word to the next time-step.
+   (wrong)
+
+6) Exploding gradient problem.
+
+7) 100
+
+8) Betty’s model (removing Γr), because if Γu≈0 for a timestep, the gradient can propagate back through that timestep without much decay. 
+
+9) Γu and Γr (wrong)
+
+10) Unidirectional RNN, because the value of y<t> depends only on x<1>,…,x<t>, but not on x<t+1>,…,x<365>
