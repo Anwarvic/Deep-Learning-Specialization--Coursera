@@ -1,0 +1,24 @@
+1) False
+
+2) A non-linear dimensionality reduction technique
+
+3) True
+
+4) - eboy−egirl≈ebrother−esister
+   - eboy−ebrother≈egirl−esister
+
+5) It is computationally wasteful.
+
+6) True
+
+7) c and t are chosen to be nearby words.
+
+8) - θt and ec are both 500 dimensional vectors. 
+   - θt and ec are both trained with an optimization algorithm such as Adam or gradient descent. 
+   
+
+9) - θi and ej should be initialized randomly at the beginning of training. 
+   - Xij is the number of times word i appears in the context of word j.
+   - The weighting function f(.) must satisfy f(0)=0. 
+
+10) m1 >> m2
