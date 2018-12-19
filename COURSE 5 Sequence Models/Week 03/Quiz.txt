@@ -1,0 +1,22 @@
+1) False
+
+2) - Beam search will run more slowly.
+   - Beam search will use up more memory.
+   - Beam search will generally find better solutions (i.e. do a better job maximizing P(y|x))
+
+3) True
+
+4) No, because P(y*|x)=P(y^|x) indicates the error should be attributed to the RNN rather than to the search algorithm.
+
+5) True
+
+6) - We expect a<t,t'> to be generally larger for values of a<t'> that are highly relevant to the value the network should output for y<t>. (Note the indices in the superscripts.)
+   - ?t'a<t,t'>=1 (Note the summation is over t'.)
+
+7) True
+
+8) The input sequence length Tx is large.
+
+9) cookbook
+
+10) Whether the trigger word is being said at time t.
